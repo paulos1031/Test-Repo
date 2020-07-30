@@ -9,5 +9,5 @@ def greet(who_to_greet):
     return greeting
 
 
-print(greet('Jeff'))
+print(greet('Paul'))
 print(greet('World'))
